@@ -16,7 +16,6 @@ The ultimate goal is to develop a reliable predictive model that assists busines
 
 ### Technologies Used
 - Python, Pandas, NumPy for data manipulation and analysis.
-- Scikit-learn for model implementation and evaluation.
 - Matplotlib, Seaborn, and Plotly for data visualization.
 
 This repository serves as a comprehensive guide and resource for predicting customer churn in the telecommunications domain, offering insights and methodologies applicable to similar business scenarios.
